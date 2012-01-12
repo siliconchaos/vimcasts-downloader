@@ -1,3 +1,3 @@
 The vimcasts-downloader script will download all Quicktime (m4v) screencats from RSS feed http://vimcasts.org/feeds/quicktime 
 
-Script user Axel to perform downlaods (http://wilmer.gaa.st/main.php/axel.html) which is supported on Linux, Windows (cygwin) and OSX (install using homebrew)
+Script uses Axel to perform downlaods (http://wilmer.gaa.st/main.php/axel.html) which is supported on Linux, Windows (cygwin) and OSX (install using homebrew)
